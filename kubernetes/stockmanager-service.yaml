@@ -31,7 +31,7 @@ spec:
     spec:
       containers:
       - name: stockmanager
-        image: wannaci/stockmanager:latest
+        image: asscc/stockmanager:latest
         ports:
         - containerPort: 8030
         livenessProbe:
