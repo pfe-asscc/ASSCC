@@ -1,4 +1,4 @@
-# projet-docker-Java-kubernetes
+# projet-docker-Java-kubernetes-k3s
 Deploiement d applications Java en utilisant Docker et Kubernetes
 
 Demonstration du fonctionnnement de la suite devops open source gitlab jenkins kubernetes
