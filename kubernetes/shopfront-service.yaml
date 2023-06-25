@@ -6,7 +6,7 @@ metadata:
   labels:
     app: shopfront
 spec:
-  type: nodeport
+  type: LoadBalancer
   selector:
     app: shopfront
   ports:
